@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>La Sqala — Restaurant Café Maure, Casablanca</title>
+<meta name="description" content="Restaurant café maure dans un bastion de l'ancienne médina de Casablanca. Français · English · العربية">
+<link rel="alternate" hreflang="fr" href="fr/">
+<link rel="alternate" hreflang="en" href="en/">
+<link rel="alternate" hreflang="ar" href="ar/">
+<link rel="alternate" hreflang="x-default" href="fr/">
+<meta name="theme-color" content="#173c36">
+<script>
+  (function () {
+    var langs = (navigator.languages || [navigator.language || "fr"]).map(function (l) { return String(l).slice(0, 2).toLowerCase(); });
+    var pick = "fr";
+    for (var i = 0; i < langs.length; i++) { if (langs[i] === "fr" || langs[i] === "en" || langs[i] === "ar") { pick = langs[i]; break; } }
+    location.replace(pick + "/" + location.hash);
+  })();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=fr/"></noscript>
+<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0f2a26;color:#f1e8d8;font:16px/1.6 Georgia,serif}a{color:#d4ad75;margin:0 12px}</style>
+</head>
+<body><p><a href="fr/">Français</a><a href="en/">English</a><a href="ar/" lang="ar">العربية</a></p></body>
+</html>
