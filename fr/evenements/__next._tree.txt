@@ -1,8 +1,8 @@
-:HL["/la-sqala/_next/static/chunks/1-r5qd-h9as2-.css","style"]
+:HL["/la-sqala/_next/static/chunks/0-u-_e5_fm8mk.css","style"]
 :HL["/la-sqala/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/la-sqala/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/la-sqala/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"evenements","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"lang","t":"d","k":"fr","s":[]},"h":65584,"c":"$Q2"}]]
-0:{"b":"ejL8d-6eaU5MRGgdf3TjJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"BCIzEVPNColQyrFo0vyFK","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
